@@ -1,3 +1,8 @@
    this is class git
+<<<<<<< HEAD
    change the first class git
    hahaha me is wonderful
+=======
+   change the first class git 
+   mmd is a king
+>>>>>>> 61e07f8f5d3a9f76b46f898be57e4ae04132b0e3
